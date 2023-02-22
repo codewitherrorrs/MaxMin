@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\MaxMIn\MaxMIn\bin\Debug\net6.0\MaxMIn.exe
+C:\Users\USER\source\repos\MaxMIn\MaxMIn\bin\Debug\net6.0\MaxMIn.deps.json
+C:\Users\USER\source\repos\MaxMIn\MaxMIn\bin\Debug\net6.0\MaxMIn.runtimeconfig.json
+C:\Users\USER\source\repos\MaxMIn\MaxMIn\bin\Debug\net6.0\MaxMIn.dll
+C:\Users\USER\source\repos\MaxMIn\MaxMIn\bin\Debug\net6.0\MaxMIn.pdb
+C:\Users\USER\source\repos\MaxMIn\MaxMIn\obj\Debug\net6.0\MaxMIn.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\MaxMIn\MaxMIn\obj\Debug\net6.0\MaxMIn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\MaxMIn\MaxMIn\obj\Debug\net6.0\MaxMIn.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\MaxMIn\MaxMIn\obj\Debug\net6.0\MaxMIn.AssemblyInfo.cs
+C:\Users\USER\source\repos\MaxMIn\MaxMIn\obj\Debug\net6.0\MaxMIn.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\MaxMIn\MaxMIn\obj\Debug\net6.0\MaxMIn.dll
+C:\Users\USER\source\repos\MaxMIn\MaxMIn\obj\Debug\net6.0\refint\MaxMIn.dll
+C:\Users\USER\source\repos\MaxMIn\MaxMIn\obj\Debug\net6.0\MaxMIn.pdb
+C:\Users\USER\source\repos\MaxMIn\MaxMIn\obj\Debug\net6.0\MaxMIn.genruntimeconfig.cache
+C:\Users\USER\source\repos\MaxMIn\MaxMIn\obj\Debug\net6.0\ref\MaxMIn.dll
